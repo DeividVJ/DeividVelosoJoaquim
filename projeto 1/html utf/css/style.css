@@ -1,0 +1,27 @@
+body{
+            background-image: url("../img/ayrton-o-chefe.jpg");
+            background-size: cover;
+            background-position: center;
+    margin: 50px;
+ p{
+    color: rgb(255, 255, 255);
+    padding: 30px;   
+ }
+ h1{
+    color: rgb(255, 255, 255);
+    margin: 250px;
+    
+ }
+ h2{
+    color: rgb(255, 255, 255);
+    padding-right: 300px;
+    
+ }
+ h3{
+    color: rgb(255, 255, 255);
+    margin-left: 500px;
+ }
+ li{
+    text-align: center;
+ };
+}
